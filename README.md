@@ -18,7 +18,7 @@ RGB (left) and corresponding 0.5 meter DSM (Digital Surface Model) (on right) <b
 <br/> <br/>
 <img align="left" src="./examples/rgb_2.png" width=47%> </img>
 <img align="right" src="./examples/dsm_2.png" width=47% > </img>
-<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> 
+<br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/> <br/><br/>
 
 
 ## About the Data
